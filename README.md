@@ -6,6 +6,7 @@
   - Multiple linear regression
   - Polynomial regression
 <br>
+
 - **Classification** 
   - K-Nearest Neighbors 
   - Decision Tree
