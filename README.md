@@ -14,3 +14,8 @@
 - **Classification** 
   - K-Nearest Neighbors 
   - Decision Tree
+  
+  <br>
+  
+  ![image](https://user-images.githubusercontent.com/58776067/210217152-9d355bef-757a-49d3-850d-7f66c2292e6a.png)
+
